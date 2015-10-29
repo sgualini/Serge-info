@@ -9,8 +9,15 @@
 	<![endif]-->
 </head>
 <body>
-	<header role="banner">
-		<h1>Serge Gualini Communication Visuelle</h1>
+	<!DOCTYPE html>
+<html>
+<body style="background-color:grey">
+
+<h1 style="color:white">Serge Gualini Communication Visuelle</h1>
+<p></p>
+</body>
+</html>
+		<img src="http://media.artsblog.it/r/rav/ravenaissance-serge-gualini-a-firenze/ravenaissance-serge-gualini-madame-louis-marie-de-france.jpg">
 		<nav role="navigation">
 			<ul>
 				<li><a href="">Chi sono</a></li>
@@ -26,7 +33,7 @@
 		<li><li>Via Doccia, 1210
 <li>47020 Villa Venti – Roncofreddo (FC) 
 <li>Cell. 340 8623538 
-<li>sgualini@hotmail.com
+sgualini@hotmail.com
  <li>facebook: “Serge Gualini Photography and Digital Imaging” <br/>
 
 <li>Istituto Degli Arti Visivi Di “La Cambre”
