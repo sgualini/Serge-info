@@ -27,12 +27,12 @@
 	</header>
 
 	<article id="about">
-		<h2>Serge Gualini</h2>
+		<li><h2>Serge Gualini</h2>
 		<p>Il mio curriculum Artistico:
 		<li>Via Doccia, 1210
 47020 Villa Venti – Roncofreddo (FC) 
 Cell. 340 8623538 
-sgualini@hotmail.com
+sgualini@hotmail.com<li/>
 facebook: “Serge Gualini Photography and Digital Imaging” <br/>
 
 Istituto Degli Arti Visivi Di “La Cambre”
@@ -109,7 +109,7 @@ Belgio, Bruxelles, 1991, Salle des métiers d'Arts. <br/>
 Belgio, Bruxelles, 1991, Centre Culturel Jacques Franck. <br/>
 
   
-Premi ottenuti: <br/> <p style="color:red">This is a paragraph.</p>
+<p style="color:white">Premi Ottenuti.</p>
 
 <p>Segnalazione al concorso “Concours Godecharles” Bruxelles  - Belgio 1991 
 Vincitore concorso “Prix Hamesse”  Bruxelles - belgio – 1991 
