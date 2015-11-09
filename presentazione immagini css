@@ -1,0 +1,106 @@
+#fullpage {
+   max-width: 60em;
+   margin: auto;
+}
+
+*, *:before, *:after {
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box; border-radius: 25px;
+}
+
+h1 {
+   font-size: 2em;text-shadow: 2px 2px 8px #FFFFF0;
+}
+h2 {
+   font-size: 1.5em; color:black
+}
+h1, h2 {font-family:verdana;
+   font-weight: bold;
+   margin: 10px 0; 
+}
+p { color: White; 
+    font-variant: small-caps;
+   font-size: 1.3em;
+   margin: 10px 0;
+   border: 5px dotted black;
+    padding: 35px;
+    background: whitw;
+    background-clip: padding-box;
+}
+ul {
+   padding-left: 10px;
+   margin: 10px 0;
+   border-style: outset; 3px solid white;
+}
+li {
+   margin-left: 10px;
+   padding-left: 10px;
+   display: inline;
+   background-color:yellow;
+    width:200px;
+    height:100px;
+    box-shadow:10px 10px 50px 20px #B3B3CC inset;
+
+}
+
+img {
+   max-width: 100%;
+   margin: 5px 0;
+   border: 5px dotted black;
+    padding: 35px;
+    background: whitw;
+    background-clip: padding-box;
+    background-color:withe;
+    width:200px;
+    height:100px;
+    box-shadow:10px 10px #B3B3CC;  
+}
+
+header, {
+   border: 2px solid #111;
+   padding: 10px 1em;
+   margin: 0 5% 10px;
+}
+
+header {
+   margin-top: 10px;
+}
+
+header {
+   background-image: url(https://media.licdn.com/media//AAEAAQAAAAAAAAWvAAAAJGM2YzAxMjZlLWM5NGEtNGQ1Ni04Njg0LTk2NTYwN2NkODQ5Mg.jpg);
+   background-position: left center;
+   border: 5px dotted white;
+
+}
+
+article img {
+	float: right;
+	padding-left: 3%;
+	padding-bottom: 10px;
+	width: 37%;
+}
+
+@media only screen and (min-width: 36em) {
+   article {
+      width: 66%;
+      float: left;
+      margin-right: 0;
+   }
+   aside {
+      width: 40%;
+      float: right;
+      margin-left: 0;
+   }
+   footer {
+      clear: both;
+   }
+}
+
+@media only screen and (max-width: 24em) {
+   article img{
+	   width: auto;
+	   float: none;
+	   padding-left: 0;
+   }
+}
