@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="it"
+    <head>
+	<title>Serge Gualini</title>
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<link rel="stylesheet" href="immaginicss.css">
+	<!--[if lt IE 9]>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<head>
+<style>
+div.img {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #0000ff;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+}
+body {
+    background: linear-gradient(to right, red, orange, yellow);
+</style>
+</head>
+<body>
+</body>
+</html>
+	<div id="fullpage">
+		<header role="banner">
+			<h1 style="font-size:400%">Serge Gualini</h1>
+		<h1 style="color:white">
+			<h1 style=>Communication Visuelle</h1>
+			</header>
+
+		<article id="about">
+		
+	        <a href="https://www.linkedin.com/profile/view?id=AAIAAAgj1PkBAnd1li2-agWu-R6LRM5McFvJ7ZY&trk=nav_responsive_tab_profile"></a>
+			<p>Grafico Creativo, Artista Contemporaneo</p>
+            <p>Progettazione e realizzazione di grafiche, con affidamento diretto della clientela e gestione interamente personale del flusso di lavoro.</br>
+             Lavoro principalmente con programmi di progettazione come Adobe Illustrator, Photoshop, In Design.</br>
+             - Progettazione e realizzazione logo.</br>
+             - Impaginazione.</br>
+             - Realizzazione brochure, carta intestata, biglietti da visita, manifesti, locandine.</br>
+             - Fotografia e manipolazione digitale.
+             - Facebook Cover
+            <p>Premi ottenuti:
+Segnalazione al concorso “Concours Godecharles” Bruxelles - Belgio 1991</br>  
+Vincitore concorso “Prix Hamesse”  Bruxelles - Belgio – 1991</br>  
+Vincitore del concorso “Prix Marie Banegas”  Lussemburgo – 1992</br>  
+Vincitore del concorso “Prix Jeune Talent”  Charleroi – Belgio - 1992</br> 
+Segnalazione al concorso “Prix Médiatine”  Bruxelles - Belgio - 1993</br> 
+Vincitore concorso “Prix de la Jeunesse”  Lussemburgo - 1994</br>    
+Selezionato alla "10  rassegna d'Arte Contemporanea", Genova- Italia 2005</br> 
+Selezionato alla seconda edizione del "Premio Webcolor 2005"</p>
+
+		</article>
+		</aside>
+		</div>
+		<img src="https://lh5.googleusercontent.com/-cNIQIlK8FvE/T9iLqKEkKcI/AAAAAAAAAB0/qESjlOE2FUU/w800-h800/4.JPG" alt="fotografia digitale" style="width:155px;height:155px;">
+		<img src="http://media.artsblog.it/r/rav/ravenaissance-serge-gualini-a-firenze/ravenaissance-serge-gualini-madame-louis-marie-de-france.jpg" alt="fotografia digitale 2013" style="width:155px;height:155px;"></br> 
+		<img src="http://media.artsblog.it/r/rav/ravenaissance-serge-gualini-a-firenze/ravenaissance-serge-gualini-rembrandt-harmenszoon.jpg" alt="fottografia digitale 2013" style="width:150px;height:150px;">
+		<img src="http://www.artmajeur.com/files/sergegualini/images/artworks/650x650/2025885_Immagine_10.jpg" alt="pittura su tela 2012" style="width:150px;height:150px;"></br> 
+		<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/06e/06d/0b173b4.jpg" alt="profilo linkedin" style="width:250px;height:250px;"></br> 
+		
+		<aside role="complementary" id="links">
+
+		<h2>Link utili:</h2>
+        <ul>
+				<li><a href="https://www.facebook.com/Serge-Gualini-Communication-visuelle-782968771739384/?ref=bookmarks"> Profilo Facebook Serge Gualini - Communication Visuelle</a></li></br>
+				<li><a href="https://www.linkedin.com/profile/view?id=AAIAAAgj1PkBAnd1li2-agWu-R6LRM5McFvJ7ZY&trk=nav_responsive_tab_profile">Profilo professionale Linkedin</a></li></br>
+				</ul>
+		</aside>
+		
+		<footer role="contentinfo">
+			<p>&copy; 2015 Serge Gualini, Via Doccia 1210 - 47020 Roncofreddo (FC) Italia <a href="mailto:sgualini@hotmail.com?Subject=Richiesta Informazioni" target="_top">@ Mandami una Mail</a></p>
+
+	</footer>
+	</div>
+
+</body>
+</html>
